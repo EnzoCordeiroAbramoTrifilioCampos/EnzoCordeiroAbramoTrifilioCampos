@@ -1,0 +1,20 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # Mantém 'maurodesouza' aqui pois é o nome do programa/ferramenta
+      - uses: maurodesouza/profile-readme-stats@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
