@@ -47,7 +47,6 @@ Busco constantemente aprender, criar projetos e melhorar minhas habilidades como
 ###
 
 <br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/EnzoCordeiroAbramoTrifilioCampos/EnzoCordeiroAbramoTrifilioCampos/snake-output/snake.svg?v=1" alt="Snake animation" />
 
 ###
