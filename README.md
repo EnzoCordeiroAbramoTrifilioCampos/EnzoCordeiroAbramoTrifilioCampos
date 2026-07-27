@@ -16,7 +16,7 @@ Busco constantemente aprender, criar projetos e melhorar minhas habilidades como
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 <div data-importer="techs" align="left">
