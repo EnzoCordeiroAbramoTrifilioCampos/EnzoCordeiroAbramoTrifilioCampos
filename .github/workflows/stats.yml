@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: maurodesouza/profile-readme-stats@v2
+      - uses: maurodesouza/profile-readme-stats@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
