@@ -7,7 +7,9 @@ Olá 👋, meu nome é Leonardo. Tenho 18 anos e sou estudante de Desenvolviment
 Apaixonado por desenvolvimento, criação digital, design, edição de vídeo e novas tecnologias. 
 Busco constantemente aprender, criar projetos e melhorar minhas habilidades como desenvolvedor.
 </p>
-## Progresso
+
+### Progresso
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/EnzoCordeiroAbramoTrifilioCampos/EnzoCordeiroAbramoTrifilioCampos/stats-output/stats.svg?v=1" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/EnzoCordeiroAbramoTrifilioCampos/EnzoCordeiroAbramoTrifilioCampos/languages-output/languages.svg?v=1" height="150" alt="languages graph" />
