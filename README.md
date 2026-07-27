@@ -3,10 +3,23 @@
 Olá 👋, meu nome é Leonardo. Tenho 18 anos e sou estudante de Desenvolvimento de Software no SENAI, focado em evoluir minhas habilidades em programação e tecnologia.
 </h2>
 
-<p align="left">
-Apaixonado por desenvolvimento, criação digital, design, edição de vídeo e novas tecnologias. 
-Busco constantemente aprender, criar projetos e melhorar minhas habilidades como desenvolvedor.
-</p>
+<p>Sou estudante de Desenvolvimento de Software no SENAI, atualmente no 2º ano, 2º semestre, com foco no desenvolvimento de aplicações e na evolução constante como profissional de tecnologia.
+
+Ao longo da minha formação, desenvolvi projetos utilizando diferentes linguagens e tecnologias, conciliando o aprendizado acadêmico com estudos independentes. Acredito que a prática contínua é um dos principais caminhos para construir soluções mais eficientes e ampliar o conhecimento técnico.
+
+Tenho grande interesse por desenvolvimento de software, tecnologia, programação, interfaces e criação de experiências digitais. Também possuo afinidade com áreas criativas como design gráfico, motion design, edição de vídeo, produção de conteúdo e desenho, competências que complementam minha visão sobre desenvolvimento de produtos digitais.
+
+Sou uma pessoa reservada, organizada e comprometida com meu crescimento profissional. Busco constantemente aprender novas ferramentas, aperfeiçoar minhas habilidades e participar de projetos que contribuam para minha evolução técnica e pessoal.
+
+🇺🇸 (English)
+
+I am a Software Development student at SENAI, currently in my second year (second semester), focused on building a solid foundation in software engineering and continuously improving my technical skills.
+
+Throughout my studies, I have developed projects using different programming languages and technologies while maintaining a strong self-learning routine outside the classroom. I believe that consistent practice is essential for becoming a better developer and creating efficient, high-quality solutions.
+
+I am passionate about software development, technology, programming, user interface design, and digital product creation. Beyond programming, I also enjoy creative fields such as graphic design, motion design, video editing, content creation, and drawing, which help me approach projects from both technical and creative perspectives.
+
+I am a reserved, organized, and growth-oriented individual who values professionalism, continuous learning, and constant improvement. My goal is to keep expanding my technical expertise while contributing to meaningful and innovative technology projects.</p>
 
 ### Progresso
 
