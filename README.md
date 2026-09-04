@@ -1,6 +1,6 @@
-## Leonardo
+## Leonardo/Enzo
 <h2 align="left">
-Olá 👋, meu nome é Leonardo. Tenho 18 anos e sou estudante de Desenvolvimento de Software no SENAI, focado em evoluir minhas habilidades em programação e tecnologia.
+Olá 👋, meu nome é Leonardo(Nome Social). Tenho 18 anos e sou estudante de Desenvolvimento de Software no SENAI, focado em evoluir minhas habilidades em programação e tecnologia.
 </h2>
 
 <p>Sou estudante de Desenvolvimento de Software no SENAI, atualmente no 2º ano, 2º semestre, com foco no desenvolvimento de aplicações e na evolução constante como profissional de tecnologia.
